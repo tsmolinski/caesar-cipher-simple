@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "caesar-cipher-simple", "caesar-cipher-simple\caesar-cipher-simple.vcxproj", "{049F61D9-95DC-4CEA-938F-B72B94AB5732}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CaesarCipherTests", "CaesarCipherTests\CaesarCipherTests.vcxproj", "{5B4D94F8-B397-496C-9F51-AA27E7A7EC18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{049F61D9-95DC-4CEA-938F-B72B94AB5732}.Debug|x64.ActiveCfg = Debug|x64
+		{049F61D9-95DC-4CEA-938F-B72B94AB5732}.Debug|x64.Build.0 = Debug|x64
+		{049F61D9-95DC-4CEA-938F-B72B94AB5732}.Debug|x86.ActiveCfg = Debug|Win32
+		{049F61D9-95DC-4CEA-938F-B72B94AB5732}.Debug|x86.Build.0 = Debug|Win32
+		{049F61D9-95DC-4CEA-938F-B72B94AB5732}.Release|x64.ActiveCfg = Release|x64
+		{049F61D9-95DC-4CEA-938F-B72B94AB5732}.Release|x64.Build.0 = Release|x64
+		{049F61D9-95DC-4CEA-938F-B72B94AB5732}.Release|x86.ActiveCfg = Release|Win32
+		{049F61D9-95DC-4CEA-938F-B72B94AB5732}.Release|x86.Build.0 = Release|Win32
+		{5B4D94F8-B397-496C-9F51-AA27E7A7EC18}.Debug|x64.ActiveCfg = Debug|x64
+		{5B4D94F8-B397-496C-9F51-AA27E7A7EC18}.Debug|x64.Build.0 = Debug|x64
+		{5B4D94F8-B397-496C-9F51-AA27E7A7EC18}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B4D94F8-B397-496C-9F51-AA27E7A7EC18}.Debug|x86.Build.0 = Debug|Win32
+		{5B4D94F8-B397-496C-9F51-AA27E7A7EC18}.Release|x64.ActiveCfg = Release|x64
+		{5B4D94F8-B397-496C-9F51-AA27E7A7EC18}.Release|x64.Build.0 = Release|x64
+		{5B4D94F8-B397-496C-9F51-AA27E7A7EC18}.Release|x86.ActiveCfg = Release|Win32
+		{5B4D94F8-B397-496C-9F51-AA27E7A7EC18}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE21167-7036-46C2-BF13-8D1E122C5595}
+	EndGlobalSection
+EndGlobal
